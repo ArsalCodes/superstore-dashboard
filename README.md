@@ -12,6 +12,14 @@ Deployed on Streamlit Cloud for easy access and sharing.
 - **Interactive Filters**: Sidebar filters for category, region, and date range.
 - **Export Option**: Download filtered data directly.
 
+## 📸 Screenshot
+![Dashboard Screenshot](Streamlit Dashboard.png)
+
+## 📧 Contact
+Developed by Arsal Khan  
+Email: arsalannaeem11.com  
+LinkedIn: (https://www.linkedin.com/in/immuhammadarsal/)
+
 ---
 
 ## 📂 Project Structure
