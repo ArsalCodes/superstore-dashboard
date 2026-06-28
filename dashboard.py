@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # ✅ Load dataset with proper encoding and parse dates
-df = pd.read_csv("data/Superstore.csv", encoding="latin1", parse_dates=["Order Date"])
+df = pd.read_csv("Superstore.csv", encoding="latin1", parse_dates=["Order Date"])
 
 st.title("📊 Super Store Dashboard")
 
