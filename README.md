@@ -13,7 +13,7 @@ Deployed on Streamlit Cloud for easy access and sharing.
 - **Export Option**: Download filtered data directly.
 
 ## 📸 Screenshot
-![Dashboard Screenshot](Streamlit Dashboard.png)
+![Dashboard Screenshot](Streamlit_Dashboard.png)
 
 ## 📧 Contact
 Developed by Arsal Khan  
