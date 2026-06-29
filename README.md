@@ -17,7 +17,7 @@ Deployed on Streamlit Cloud for easy access and sharing.
 
 ## 📧 Contact
 Developed by Arsal Khan  
-Email: arsalannaeem11.com  
+Email: arsalannaeem11@gmail.com  
 LinkedIn: (https://www.linkedin.com/in/immuhammadarsal/)
 
 ---
